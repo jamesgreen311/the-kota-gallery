@@ -1,1 +1,1 @@
-# the-kota-gallery
+# The Kota Gallery
